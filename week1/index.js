@@ -35,3 +35,5 @@ const newAnimal = new Animals('pig', 'grunt')
 const newAnimal2 = new Animals('cow', 'mow')
 
 const animalcollection = [newAnimal]
+
+
