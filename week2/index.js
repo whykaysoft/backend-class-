@@ -38,3 +38,12 @@ const addTotal = (a,b) =>{
 }
 addTotal(5,6)
 
+//Class Task Correction
+
+const fizzBuzz = () =>{
+    for(let i=1; i<=100; i++){
+        console.log(i%3 ?'':'fizz') + (i%5 ?'':'buzz')
+    }
+}
+fizzBuzz()
+const printPrime
