@@ -21,6 +21,9 @@ const name = [{
 },
 {
     "id": 8, "class": 'VUE'
+},
+{
+    "id": 9, "class": 'C#'
 }]
 
 module.exports = name
